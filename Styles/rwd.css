@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px){
+    .select{
+        
+        display: block;
+        width: 10%;
+        border-radius: 10px;
+    }
+    form input{
+        width: 60%;
+        height: 70px;
+    }
+    .todo{
+        font-size: 1.2em;
+    }
+    form input{
+        font-size: 1.2em;
+    }
+}
